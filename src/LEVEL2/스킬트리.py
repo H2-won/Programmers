@@ -16,3 +16,6 @@ def solution(skill, skill_trees):
             
                 
     return cnt
+  
+  # for-else 문을 사용하게 되면 flag 값을 안써도 된다.
+  # for문의 루프가 정상적으로 끝났다면 else 로 들어간다. (break, return 등으로 루프가 끊긴다면 else에 해당되지 않는다.)
